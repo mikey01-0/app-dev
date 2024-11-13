@@ -27,38 +27,38 @@
 - Adventure Time
 
 ## Movies/Series to watch- 
-- [] La La Land
-- [] Everything Everywhere All At Once
-- [] Grand Budapest Hotel
-- [] Fury
-- [] The Hangover
-- [] Brothers
-- [] Kingdom of Heaven
-- [] Prisoners
-- [] Dallas Buyers Club
-- [] Hacksaw Ridge
-- [] The Intouchables
-- [] The Godfather Trilogy
-- [] Pulp Fiction
-- [] Scarface
-- [] Taxi Driver
-- [] Along with The Gods
-- [] The Thing
-- [] Her
-- [] The Whale
-- [] The Lighthouse
-- [] Rain Man
-- [] Ape Trilogy
-- [] End of Watch
-- [] Jar Head
-- [] Demolition
-- [] Donnie Darko
-- [] Flight
-- [] Fences
-- [] Training Day
-- [] Man on Fire
-- [] The Book of Eli
-- [] Puss In Boots Franchise
-- [] Flight
-- [] Man on Fire
-- [] Yes Man
+- [ ] La La Land
+- [ ] Everything Everywhere All At Once
+- [ ] Grand Budapest Hotel
+- [ ] Fury
+- [ ] The Hangover
+- [ ] Brothers
+- [ ] Kingdom of Heaven
+- [ ] Prisoners
+- [ ] Dallas Buyers Club
+- [ ] Hacksaw Ridge
+- [ ] The Intouchables
+- [ ] The Godfather Trilogy
+- [ ] Pulp Fiction
+- [ ] Scarface
+- [ ] Taxi Driver
+- [ ] Along with The Gods
+- [ ] The Thing
+- [ ] Her
+- [ ] The Whale
+- [ ] The Lighthouse
+- [ ] Rain Man
+- [ ] Ape Trilogy
+- [ ] End of Watch
+- [ ] Jar Head
+- [ ] Demolition
+- [ ] Donnie Darko
+- [ ] Flight
+- [ ] Fences
+- [ ] Training Day
+- [ ] Man on Fire
+- [ ] The Book of Eli
+- [ ] Puss In Boots Franchise
+- [ ] Flight
+- [ ] Man on Fire
+- [ ] Yes Man
